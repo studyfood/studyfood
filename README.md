@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/studyfood/assets/main/logo.svg" alt="Study Food Logo" width="80px" /><br/>
+  <img src="https://raw.githubusercontent.com/studyfood/studyfood/refs/heads/main/logo.png" alt="Study Food Logo" width="80px" /><br/>
   <strong>Study Food</strong>
 </h1>
 
